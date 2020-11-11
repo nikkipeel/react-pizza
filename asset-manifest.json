@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/react-pizza/static/js/main.374d4714.chunk.js",
-    "main.js.map": "/react-pizza/static/js/main.374d4714.chunk.js.map",
+    "main.js": "/react-pizza/static/js/main.a790b082.chunk.js",
+    "main.js.map": "/react-pizza/static/js/main.a790b082.chunk.js.map",
     "runtime-main.js": "/react-pizza/static/js/runtime-main.3936f98f.js",
     "runtime-main.js.map": "/react-pizza/static/js/runtime-main.3936f98f.js.map",
     "static/js/2.938040e5.chunk.js": "/react-pizza/static/js/2.938040e5.chunk.js",
@@ -22,6 +22,6 @@
   "entrypoints": [
     "static/js/runtime-main.3936f98f.js",
     "static/js/2.938040e5.chunk.js",
-    "static/js/main.374d4714.chunk.js"
+    "static/js/main.a790b082.chunk.js"
   ]
 }
