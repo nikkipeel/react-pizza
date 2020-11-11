@@ -34,7 +34,7 @@ export const productData = [
 
 export const productDataTwo = [
   {
-    img: sweet1,
+    img: sweet2,
     alt: 'Donuts',
     name: 'Doughlicious',
     desc: 'Belgian chocolate glazed donuts covered in icing with sprinkles on otp',
@@ -42,7 +42,7 @@ export const productDataTwo = [
     button: 'Add to Cart'
   },
   {
-    img: sweet2,
+    img: sweet3,
     alt: 'Ice Cream',
     name: 'Caramel Wonder',
     desc: 'Vanilla ice cream covered with caramel and chocolate glaze topped with a cocoa stick',
@@ -50,7 +50,7 @@ export const productDataTwo = [
     button: 'Add to Cart'
   },
   {
-    img: sweet3,
+    img: sweet1,
     alt: 'Brownie',
     name: 'Brownie Bunch',
     desc: 'Double fudge brownie squares topped with white chocolate pieces and macadamia nuts',
